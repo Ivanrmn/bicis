@@ -1,6 +1,6 @@
 package org.mvpigs.bicis;
 
-public class BiciPalma {
+public class appalma {
 
 	public static void main(String[] args) {
 		
